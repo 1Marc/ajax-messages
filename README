@@ -1,0 +1,8 @@
+Ajax Messages - A Demo of Ajax with PHP
+* Copyright 2009, Marc Grabanski (m@marcgrabanski.com) http://marcgrabanski.com
+* Released under the MIT License
+
+INSTALL INSTRUCTIONS
+
+1) Use create-table.sql to put a table in your database
+2) Update db.php with your MySQL credentials
